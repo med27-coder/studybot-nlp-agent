@@ -1,4 +1,4 @@
-# 🤖 AI & Tools Usage Disclosure
+# AI & Tools Usage Disclosure
 
 This file explains what AI tools and software were used to build this project.
 
