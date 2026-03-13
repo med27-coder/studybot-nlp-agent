@@ -148,13 +148,16 @@ Open the `.ipynb` file in **VS Code** or **Jupyter** and run all cells.
 
 ## 💡 Ideas to Make It Better
 
-Here are some things you could add in the future:
+💡 Want to Contribute or Build on This?
+This project is a great starting point. If you want to take it further, here are some ideas:
 
-- 🔍 A **web search tool** — so the bot can search Google for study tips
-- 🗓️ A **schedule tool** — to show class timetables
-- 💾 A **real database** — replace the fake student data with a real one
-- 🖥️ A **chat interface** — add a simple website so you can chat with it in a browser
-- 🔄 **Different AI models** — swap Llama for Mistral, Gemma, or any other free model
+🔍 Add a web search tool — so the bot can search Google for study tips
+🗓️ Add a schedule tool — to show class timetables
+💾 Connect a real database — replace the fake student data with a real one
+🖥️ Build a chat interface — add a simple website so you can chat with it in a browser
+🔄 Try different AI models — swap Llama for Mistral, Gemma, or any other free Ollama model
+
+Feel free to fork this repo and make it your own!
 
 ---
 
