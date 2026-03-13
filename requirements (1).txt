@@ -1,0 +1,10 @@
+# StudyBot — Python Dependencies
+# Install with: pip install -r requirements.txt
+#
+# Note for Windows ARM64 (Python 3.13) — if aiohttp fails to build, use:
+#   pip install -r requirements.txt --no-deps
+#   pip install pydantic httpx tenacity PyYAML requests
+
+langchain>=0.3.0
+langgraph>=0.2.0
+langchain-ollama>=0.2.0
