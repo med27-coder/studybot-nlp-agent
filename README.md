@@ -141,7 +141,7 @@ Open the `.ipynb` file in **VS Code** or **Jupyter** and run all cells.
 📂 studybot-repo/
 ├── 📓 studybot_agent_V1-FM-ITAI-237.ipynb   ← The main code + results
 ├── 📄 README.md                              ← This file
-├── 📄 AI_Usage                               ← This file
+├── 📄 AI_Usage.md                             ← This file
 ├── 📄 powerpoint                            ← This file
 └── 📄 requirements.txt                       ← List of packages needed
 ```
