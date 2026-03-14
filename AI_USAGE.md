@@ -1,4 +1,4 @@
-# AI & Tools Usage Disclosure
+# 🤖 AI & Tools Usage Disclosure
 
 This file explains what AI tools and software were used to build this project.
 
@@ -15,6 +15,10 @@ This file explains what AI tools and software were used to build this project.
 - **What I used it for:** This is the AI model that powers StudyBot. It runs locally on my computer via Ollama.
 - **Model:** llama3.2
 - **Link:** https://ollama.com/library/llama3.2
+
+### Gamma (by Gamma App)
+- **What I used it for:** Creating the project presentation in a PowerPoint-style format to present this work.
+- **Link:** https://gamma.app
 
 ---
 
